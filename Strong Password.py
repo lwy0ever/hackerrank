@@ -1,4 +1,4 @@
-#!/bin/python2
+#!/bin/python
 
 import math
 import os
